@@ -1,5 +1,5 @@
-## Hidden_Markov_Model
-Application of Hidden Markov Model for Financial Markets
+## Gaussian Mixture Models for Finance
+an Application of Gaussian Mixture Models for for Financial Markets
 
 
 ## Screenshots
